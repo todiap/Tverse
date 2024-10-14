@@ -782,10 +782,13 @@ Imports:
 	tcltk,
 	tools,
 	translations,
-	utils
+	utils,
+	BiocManager
 Remotes:
     MilesMcBain/breakerofchains
 biocViews: 
+	clusterProfiler,
+	org.Hs.eg.db
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.2
