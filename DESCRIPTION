@@ -9,7 +9,7 @@ License: MIT + file LICENSE
 Depends: 
     R (>= 4.2.0)
 Imports: 
-abind,
+    abind,
 admisc,
 afex,
 affy,
