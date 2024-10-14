@@ -788,6 +788,7 @@ Remotes:
     MilesMcBain/breakerofchains
 biocViews: 
 	clusterProfiler,
+	DESeq2,
 	org.Hs.eg.db
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
